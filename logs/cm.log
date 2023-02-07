@@ -1,0 +1,96 @@
+2023-02-06 14:27:07,948 - [line:42] - INFO: wait rw for num:1
+2023-02-06 14:27:08,150 - [line:45] - ERROR: 除魔异常任务结束!
+2023-02-06 14:27:08,150 - [line:58] - INFO: ----------------cm end-------------------
+2023-02-06 14:28:19,960 - [line:42] - INFO: wait rw for num:1
+2023-02-06 14:28:20,123 - [line:45] - ERROR: 除魔异常任务结束!
+2023-02-06 14:28:20,124 - [line:58] - INFO: ----------------cm end-------------------
+2023-02-06 14:57:14,598 - [line:42] - INFO: wait rw for num:1
+2023-02-06 14:57:14,598 - [line:42] - INFO: wait rw for num:1
+2023-02-06 14:57:14,829 - [line:45] - ERROR: 除魔异常任务结束!
+2023-02-06 14:57:14,829 - [line:45] - ERROR: 除魔异常任务结束!
+2023-02-06 14:57:14,830 - [line:58] - INFO: ----------------cm end-------------------
+2023-02-06 14:57:14,830 - [line:58] - INFO: ----------------cm end-------------------
+2023-02-06 15:01:21,929 - [line:42] - INFO: wait rw for num:1
+2023-02-06 15:01:21,929 - [line:42] - INFO: wait rw for num:1
+2023-02-06 15:02:17,876 - [line:45] - ERROR: 除魔异常任务结束!
+2023-02-06 15:02:17,876 - [line:45] - ERROR: 除魔异常任务结束!
+2023-02-06 15:02:29,980 - [line:58] - INFO: ----------------cm end-------------------
+2023-02-06 15:02:29,980 - [line:58] - INFO: ----------------cm end-------------------
+2023-02-06 15:04:23,316 - [line:42] - INFO: wait rw for num:1
+2023-02-06 15:04:23,316 - [line:42] - INFO: wait rw for num:1
+2023-02-06 15:08:31,422 - [line:42] - INFO: wait rw for num:1
+2023-02-06 15:08:31,422 - [line:42] - INFO: wait rw for num:1
+2023-02-06 15:08:31,660 - [line:45] - ERROR: 除魔异常任务结束!
+2023-02-06 15:08:31,660 - [line:45] - ERROR: 除魔异常任务结束!
+2023-02-06 15:08:31,660 - [line:58] - INFO: ----------------cm end-------------------
+2023-02-06 15:08:31,660 - [line:58] - INFO: ----------------cm end-------------------
+2023-02-06 15:12:55,954 - [line:42] - INFO: wait rw for num:1
+2023-02-06 15:12:56,131 - [line:45] - ERROR: 除魔异常任务结束!
+2023-02-06 15:12:56,131 - [line:58] - INFO: ----------------cm end-------------------
+2023-02-06 15:13:26,447 - [line:42] - INFO: wait rw for num:1
+2023-02-06 15:13:26,606 - [line:45] - ERROR: 除魔异常任务结束!
+2023-02-06 15:13:26,606 - [line:58] - INFO: ----------------cm end-------------------
+2023-02-06 16:48:27,262 - [line:42] - INFO: wait rw for num:1
+2023-02-06 16:48:27,434 - [line:65] - ERROR: 窗口:./image/win/win1.png|./image/win/win11.png暂无匹配!
+2023-02-06 16:48:27,435 - [line:45] - ERROR: 除魔异常任务结束!
+2023-02-06 16:48:27,435 - [line:58] - INFO: ----------------cm end-------------------
+2023-02-06 20:40:38,884 - [line:42] - INFO: wait rw for num:1
+2023-02-06 20:41:51,870 - [line:42] - INFO: wait rw for num:2
+2023-02-06 20:41:54,557 - [line:31] - INFO: ------Not completed 10 s later------
+2023-02-06 20:43:17,637 - [line:42] - INFO: wait rw for num:3
+2023-02-06 20:44:30,784 - [line:42] - INFO: wait rw for num:4
+2023-02-06 20:45:43,618 - [line:42] - INFO: wait rw for num:5
+2023-02-06 20:45:46,487 - [line:31] - INFO: ------Not completed 10 s later------
+2023-02-06 20:45:59,196 - [line:31] - INFO: ------Not completed 10 s later------
+2023-02-06 20:47:21,894 - [line:42] - INFO: wait rw for num:6
+2023-02-06 20:48:45,644 - [line:42] - INFO: wait rw for num:7
+2023-02-06 20:50:00,392 - [line:42] - INFO: wait rw for num:8
+2023-02-06 20:50:02,530 - [line:31] - INFO: ------Not completed 10 s later------
+2023-02-06 20:51:23,854 - [line:42] - INFO: wait rw for num:9
+2023-02-06 20:52:35,219 - [line:42] - INFO: wait rw for num:10
+2023-02-06 20:53:46,610 - [line:42] - INFO: wait rw for num:11
+2023-02-06 20:53:48,722 - [line:31] - INFO: ------Not completed 10 s later------
+2023-02-06 20:54:00,790 - [line:31] - INFO: ------Not completed 10 s later------
+2023-02-06 20:55:22,170 - [line:42] - INFO: wait rw for num:12
+2023-02-06 20:56:43,790 - [line:42] - INFO: wait rw for num:13
+2023-02-06 20:57:55,292 - [line:42] - INFO: wait rw for num:14
+2023-02-06 20:59:06,738 - [line:42] - INFO: wait rw for num:15
+2023-02-06 20:59:08,835 - [line:31] - INFO: ------Not completed 10 s later------
+2023-02-06 21:00:30,235 - [line:42] - INFO: wait rw for num:16
+2023-02-06 21:01:41,569 - [line:42] - INFO: wait rw for num:17
+2023-02-06 21:02:52,953 - [line:42] - INFO: wait rw for num:18
+2023-02-06 21:02:55,139 - [line:31] - INFO: ------Not completed 10 s later------
+2023-02-06 21:04:26,642 - [line:42] - INFO: wait rw for num:19
+2023-02-06 21:05:38,050 - [line:42] - INFO: wait rw for num:20
+2023-02-06 21:06:49,390 - [line:42] - INFO: wait rw for num:21
+2023-02-06 21:08:04,397 - [line:42] - INFO: wait rw for num:22
+2023-02-06 21:08:06,470 - [line:31] - INFO: ------Not completed 10 s later------
+2023-02-06 21:09:27,731 - [line:42] - INFO: wait rw for num:23
+2023-02-06 21:09:29,811 - [line:31] - INFO: ------Not completed 10 s later------
+2023-02-06 21:09:41,857 - [line:31] - INFO: ------Not completed 10 s later------
+2023-02-06 21:11:03,162 - [line:42] - INFO: wait rw for num:24
+2023-02-06 21:11:05,216 - [line:31] - INFO: ------Not completed 10 s later------
+2023-02-06 21:12:36,721 - [line:42] - INFO: wait rw for num:25
+2023-02-06 21:13:48,126 - [line:42] - INFO: wait rw for num:26
+2023-02-06 21:14:59,457 - [line:42] - INFO: wait rw for num:27
+2023-02-06 21:15:01,590 - [line:31] - INFO: ------Not completed 10 s later------
+2023-02-06 21:15:13,710 - [line:31] - INFO: ------Not completed 10 s later------
+2023-02-06 21:15:25,836 - [line:31] - INFO: ------Not completed 10 s later------
+2023-02-06 21:15:37,956 - [line:31] - INFO: ------Not completed 10 s later------
+2023-02-06 21:15:50,030 - [line:31] - INFO: ------Not completed 10 s later------
+2023-02-06 21:16:02,129 - [line:31] - INFO: ------Not completed 10 s later------
+2023-02-06 21:16:14,208 - [line:31] - INFO: ------Not completed 10 s later------
+2023-02-06 21:16:26,295 - [line:31] - INFO: ------Not completed 10 s later------
+2023-02-06 21:16:38,358 - [line:31] - INFO: ------Not completed 10 s later------
+2023-02-06 21:16:50,462 - [line:31] - INFO: ------Not completed 10 s later------
+2023-02-06 21:17:02,516 - [line:31] - INFO: ------Not completed 10 s later------
+2023-02-06 21:18:24,116 - [line:42] - INFO: wait rw for num:28
+2023-02-06 21:18:26,227 - [line:31] - INFO: ------Not completed 10 s later------
+2023-02-06 21:19:47,627 - [line:42] - INFO: wait rw for num:29
+2023-02-06 21:19:49,684 - [line:31] - INFO: ------Not completed 10 s later------
+2023-02-06 21:20:01,774 - [line:31] - INFO: ------Not completed 10 s later------
+2023-02-06 21:21:23,166 - [line:42] - INFO: wait rw for num:30
+2023-02-06 21:21:25,324 - [line:31] - INFO: ------Not completed 10 s later------
+2023-02-06 21:21:37,367 - [line:31] - INFO: ------Not completed 10 s later------
+2023-02-06 21:21:58,638 - [line:56] - INFO: cm次数完成
+2023-02-06 21:21:58,643 - [line:58] - INFO: ----------------cm end-------------------
