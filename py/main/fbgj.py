@@ -72,7 +72,7 @@ def fbMethod(titel,fb_config,winReg):
         sign = True
 
 def isBoss():
-    
+   pass 
 
 if __name__ == "__main__":
     team='win1'
